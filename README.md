@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boobaru
+- 👋 Hi, I’m @eatsleepcode
 - 👀 I’m interested in learning web, IoT, blockchains, app development, cybersecurity
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Open Source Software
